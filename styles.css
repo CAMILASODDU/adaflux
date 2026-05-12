@@ -78,18 +78,13 @@ header {
     /* Aumenté el desplazamiento y difuso */
 }
 
-.hero h2 {
-    font-family: 'Audiowide', sans-serif;
-    font-size: 110px;
-    text-shadow: 6px 6px 15px rgba(0, 0, 0, 0.9);
-    /* Aumenté el desplazamiento y difuso */
-}
-
 .hero h1 {
     font-family: 'Audiowide', sans-serif;
     font-size: 110px;
     text-shadow: 6px 6px 15px rgba(0, 0, 0, 0.9);
+    margin-top: 10px;
 }
+
 
 .floating-logo {
     width: 150px;
