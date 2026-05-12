@@ -85,6 +85,12 @@ header {
     /* Aumenté el desplazamiento y difuso */
 }
 
+.hero h1 {
+    font-family: 'Audiowide', sans-serif;
+    font-size: 110px;
+    text-shadow: 6px 6px 15px rgba(0, 0, 0, 0.9);
+}
+
 .floating-logo {
     width: 150px;
     margin: auto;
@@ -123,6 +129,7 @@ header {
         transform: scale(1.1) translateY(-20px);
     }
 }
+
 
 /* SECCIONES */
 .section {
